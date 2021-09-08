@@ -1,1 +1,1 @@
-# Web-shop-cart-zavrsni-projekt-iz-OOP
+# Shopping-cart-zavrsni-projekt-iz-OOP
