@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Konzum>
+    <Product>
+        <Name>Pen</Name>
+        <Price>3.20</Price>
+        <Origin>Slovenia</Origin>
+        <Expiry_date>13-12-2022</Expiry_date>
+    </Product>
+    <Product>
+        <Name>Notebook</Name>
+        <Price>2.69</Price>
+        <Origin>Austria</Origin>
+        <Expiry_date>23-9-2029</Expiry_date>
+    </Product>
+    <Product>
+        <Name>Paper</Name>
+        <Price>0.1</Price>
+        <Origin>Europe</Origin>
+        <Expiry_date>23-9-2029</Expiry_date>
+    </Product>
+    <Product>
+        <Name>Perfume</Name>
+        <Price>15.6</Price>
+        <Origin>Europe</Origin>
+        <Expiry_date>23-9-2023</Expiry_date>
+    </Product>
+    <Product>
+        <Name>Deodorant</Name>
+        <Price>10.12</Price>
+        <Origin>Asia</Origin>
+        <Expiry_date>23-9-2024</Expiry_date>
+    </Product>
+</Konzum>
